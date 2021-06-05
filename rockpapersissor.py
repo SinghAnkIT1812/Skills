@@ -1,4 +1,3 @@
-# importing required random module
 import random
 print("The Rules of Rock paper scissor game will be follows: \n"
       + "Rock vs paper --> paper wins \n"
